@@ -1,0 +1,5 @@
+import self
+
+
+
+print(bfs())
